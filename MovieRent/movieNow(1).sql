@@ -1,3 +1,8 @@
+
+-- SELECT , COUNT , ORDER BY , WHERE , ALIAS 
+
+
+
 -- Select all columns needed to compute the average rating per movie
 
 SELECT movie_id,  
