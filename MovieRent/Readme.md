@@ -8,4 +8,12 @@ Database structure :
 
 Objective :
 
+1) Extract valuable information from data to support operational short-term decisions
 
+   -  popularity of certain actors helps MovieNow decide whether to purchase certain movies
+   -  last month's revenue can be important information supporting decisions regarding short-term investments
+
+2) Provide information regarding customer growth and successes in certain regions
+
+    - inform company decisions regarding when and where the market can be expanded in the future
+    - overall revenue helps MovieNow plan long-term investments.
