@@ -11,9 +11,12 @@ Extract Key Metrics
 For each of the identified industries, we will gather the following details:
 
 Number of Unicorns: Total unicorns created in each year within the selected industries.
+
 Year of Achievement: The specific year in which these companies achieved unicorn status.
+
 Average Valuation: Calculate the average valuation of unicorns in each industry, converted to billions of dollars, rounded to two decimal places.
-Output Results
+
+Output Results:
 A final table will summarize the findings with the following columns:
 
 Industry: The name of the industry.
