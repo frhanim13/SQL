@@ -20,10 +20,16 @@ Output Results:
 A final table will summarize the findings with the following columns:
 
 Industry: The name of the industry.
+
 Year: The year in which unicorns achieved their status.
+
 Num_Unicorns: The number of new unicorns in that year.
+
 Average_Valuation_Billions: The average valuation of these unicorns (in billions).
+
 For better readability, the results will be sorted in descending order by Year and Num_Unicorns.
 
+
 Deliverables
+
 The analysis will return a structured table, ready for further interpretation and visualization, providing stakeholders with actionable insights into the top industries driving unicorn growth during the defined period.
