@@ -30,5 +30,15 @@ FROM (
     FETCH FIRST 1 ROW ONLY
 ) AS longest_city;
 
+--country start with aeiou without duplicate
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY LIKE 'A%' 
+   OR CITY LIKE 'E%' 
+   OR CITY LIKE 'I%' 
+   OR CITY LIKE 'O%' 
+   OR CITY LIKE 'U%';
+
+
 
 
